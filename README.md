@@ -1,4 +1,4 @@
-SDE I on [AWS Redshift](https://aws.amazon.com/redshift/)
+SDE I on [AWS Redshift](https://aws.amazon.com/redshift/). Enjoying working in the clouds ☁️
 
 <!--
 **noyoshi/noyoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
