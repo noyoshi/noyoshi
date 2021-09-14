@@ -1,4 +1,4 @@
-SDE II on [AWS Redshift](https://aws.amazon.com/redshift/). Interested in combing cloud and distributed systems technologies to machine / deep learning efforts in order to bridge the gap between research and production. 
+Interested in combing cloud and distributed systems technologies to machine / deep learning efforts in order to bridge the gap between research and production. 
 
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=noyoshi&theme=react&show_icons=true" height="180px">
