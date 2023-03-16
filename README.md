@@ -1,4 +1,4 @@
-Interested in combing cloud and distributed systems technologies to machine / deep learning efforts in order to bridge the gap between research and production. 
+Making the world's first declarative deep learning platform at Predibase!
 
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=noyoshi&theme=react&show_icons=true" height="180px">
