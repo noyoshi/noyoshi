@@ -1,4 +1,4 @@
-Making the world's first declarative deep learning platform at Predibase!
+LLM inference, kubernetes, etc @predibase
 
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=noyoshi&theme=react&show_icons=true" height="180px">
